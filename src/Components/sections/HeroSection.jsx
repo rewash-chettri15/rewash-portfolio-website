@@ -1,10 +1,8 @@
 import { CTAButton } from "../Styles/common/CTAButton.styled";
 import { HeroContent, HeroSocialIcons, StyledArrowDown, StyledHeroSection, SocialIcon } from "../Styles/sections/HeroSection.styled";
 import {GiNinjaStar} from "react-icons/gi";
-import{FaLinkedin} from "react-icons/fa";
-import{FaGithub} from "react-icons/fa";
-import{FaFacebook} from "react-icons/fa";
-import{FaInstagram} from "react-icons/fa";
+import{FaLinkedin,FaGithub,FaFacebook,FaInstagram} from "react-icons/fa";
+
 export const HeroSection=()=>{
     return <StyledHeroSection id="hero-section">
         <HeroContent>
@@ -21,16 +19,16 @@ export const HeroSection=()=>{
         <GiNinjaStar/>
         </StyledArrowDown>
         <HeroSocialIcons>
-            <SocialIcon href="#" target="_blank">
+            <SocialIcon href="https://www.linkedin.com/in/rewash-chettri-188b72192" target="_blank">
             <FaLinkedin/>
             </SocialIcon>
-            <SocialIcon href="#" target="_blank">
+            <SocialIcon href="https://github.com/rewash-chettri15" target="_blank">
                 <FaGithub/>
             </SocialIcon>
-            <SocialIcon href="#" target="_blank">
+            <SocialIcon href="https://www.facebook.com/rewash.swagchettri" target="_blank">
                 <FaFacebook/>
             </SocialIcon>
-            <SocialIcon href="#" target="_blank">
+            <SocialIcon href="https://www.instagram.com/iamrewash/" target="_blank">
                 <FaInstagram/>
             </SocialIcon>
         </HeroSocialIcons>
