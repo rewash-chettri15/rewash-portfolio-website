@@ -13,9 +13,13 @@ export const AboutSection =()=>{
             <StyledHeading>
                 Hello/Konnichiwa <StyledEmoji>🧧</StyledEmoji>
             </StyledHeading>
-            <p>s  rerumincidunt nam quibusdam officia culpa nulla animi, perspiciatis ad reiciendis numquam! Excepturi ipsum maxime dolorem voluptas id vero accusantium officia numquam architecto, quis cum beatae nostrum quisquam porro eaque quibusdam alias aut est perspiciatis assumenda commodi at necessitatibus eius totam. Consectetur, fugiat architecto. Ipsum voluptate quidem voluptatum. Dicta assumenda, animi illo tempora possimus eaque exercitationem? Itaque enim sed illum excepturi ea rem quia provident neque praesentium! Delectus rerum obcaecati tempora suscipit ullam, cum, ducimus nulla amet harum repellendus similique aliquam aliquid! Quas accusamus error dolore perferendis necessitatibus nulla. Molestias, sequi asperiores.</p>
-        <p>x laborecidunt commodi blanditiis dicta necessitatibus, ipsum enim quos doloremque, ratione maxime explicabo. Fugiat assumenda porro aliquid recusandae est dolore itaque ex voluptates vitae rem, ad quasi quia, delectus iusto quibusdam nam a, non blanditiis earum consequatur placeat quisquam soluta libero. Nisi magnam voluptatum facere voluptas. Ullam autem beatae ipsum iure adipisci cupiditate. Soluta ducimus dicta id quibusdam ipsam libero quia adipisci quis, sit commodi nihil sed perspiciatis et eius ut saepe possimus enim, sint distinctio beatae iste vel corrupti sunt! Quaerat.</p>
-        <CTAButton href="#" target="_blank">
+            <p> Hello, My name is Rewash Chettri. I am from Darjeeling, West Bengal, India. This is my portfolio website made with React and Styled Components. I have good knowledge of development and I am a great tech enthusiast.
+
+            </p>
+        <p>I am currently pursuing my BTECH in Computer Science And Engineering from Lovely Professional University, Punjab. I completed my class 10th from Cambridge English School, Kurseong (ICSE) and my 12th from Army Public Sukna (CBSE).</p>
+        
+        <p> I have a good knowledge of web development and many other technologies and languages. I am also UI/UX enthusiast with many creative ideas. I have great interest in web 3.0 and also want to explore the world of blockchain. I am also a digital artist.</p>
+        <CTAButton href="https://drive.google.com/file/d/1hp4wLz7bnhwhEvo_zXWTklnstCUNig2V/view?usp=sharing" target="_blank">
             Get My Resume
         </CTAButton>
         </AboutContent>

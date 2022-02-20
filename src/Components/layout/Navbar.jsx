@@ -44,23 +44,23 @@ export const Navbar =() =>{
                         {
                             navItem.hasSocialIcons ? 
                                 <SocialIcons>
-                                    <NavLink href="#" target="_blank">
+                                    <NavLink href="https://www.linkedin.com/in/rewash-chettri-188b72192" target="_blank">
                                     <FaLinkedin/>
                                     </NavLink>
-                                    <NavLink href="#" target="_blank">
+                                    <NavLink href="https://github.com/rewash-chettri15" target="_blank">
                                     <FaGithub/>
                                     </NavLink>
-                                    <NavLink href="#" target="_blank">
+                                    <NavLink href="https://www.facebook.com/rewash.swagchettri" target="_blank">
                                     <FaFacebook/>
                                     </NavLink>
-                                    <NavLink href="#" target="_blank">
+                                    <NavLink href="https://www.instagram.com/iamrewash/" target="_blank">
                                     <FaInstagram/>
                                     </NavLink>
                                 </SocialIcons>
                             :null
                         }
                          {navItem.hasCTA ? (
-                             <CTAButton href="" target="_blank">
+                             <CTAButton href="https://drive.google.com/file/d/1hp4wLz7bnhwhEvo_zXWTklnstCUNig2V/view?usp=sharing" target="_blank">
                                  Download Resume
                              </CTAButton>
                          ): null}

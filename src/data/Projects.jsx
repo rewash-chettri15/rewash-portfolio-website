@@ -23,4 +23,16 @@ export const Projects=[
 
     },
 
+    {
+        thumbnail:"./images/cryptowolf.png",
+        title: "Crypto Wolf",
+        tags:["React js","Material UI"],
+        paragraph:"It is a website which shows the value of different cryptocurrencies and the loss and profit gained by them and their ranks according to market cap. It shows price in both INR and USD values.",
+        codelink: "https://github.com/rewash-chettri15/Crypto-Wolf",
+        projectlink:"https://cryptowolf.netlify.app/",
+        projectlinktext:"View Project"
+        
+
+    },
+
 ];

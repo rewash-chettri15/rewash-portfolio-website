@@ -8,7 +8,7 @@ export const HeroSection=()=>{
         <HeroContent>
             <h1>Rewash Chettri</h1>
             <h3>|Computer Science Engineer|</h3>
-            <p>HTML . CSS . Javascript . React. Next.js .Java</p>
+            <p>HTML . CSS . Javascript . React . Java</p>
             <div>
                 <CTAButton href="#projects">Projects</CTAButton>
                 <CTAButton href="#contact" primary margin="0 0 0 20px">Contact Me</CTAButton>
