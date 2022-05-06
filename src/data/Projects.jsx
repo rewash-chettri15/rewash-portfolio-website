@@ -35,4 +35,28 @@ export const Projects=[
 
     },
 
+    {
+        thumbnail:"./images/crudern.png",
+        title: "MERN Stack CRUD Application",
+        tags:["MERN Stack","Bootstrap"],
+        paragraph:"It is a crud application which is built using mern stack. It has many functionalities including all the essesntial crud functionalities. ",
+        codelink: "https://github.com/rewash-chettri15/Crud-Mern-Application",
+        projectlink:"https://mern-crud-app-rewash.netlify.app/",
+        projectlinktext:"View Project"
+        
+
+    },
+
+    {
+        thumbnail:"./images/vc.png",
+        title: "Video Conferencing Application",
+        tags:["Node js","Peer js", "webrtc","ejs","express"],
+        paragraph:"It is a video conferencing application where many people can join the room and talk to each other in real time. It can hold multiple persons and each time and people can create different rooms or join the given room through a link. It has many other features including chat, mute and stop video functionalities.",
+        codelink: "https://github.com/rewash-chettri15/Video-Conference-Application",
+        projectlink:"https://still-inlet-71327.herokuapp.com/",
+        projectlinktext:"View Project"
+        
+
+    },
+
 ];
